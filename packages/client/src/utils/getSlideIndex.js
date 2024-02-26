@@ -1,4 +1,5 @@
 export function getSlideIndex({ next, slides, currentIndex, timeline, currentFragmentSteps }) {
+  // console.log('getSlideIndex', { next, slides, currentIndex, timeline })
   let nextIndex = next;
   let nextCurrentFragmentSteps = 0;
 
@@ -28,6 +29,7 @@ export function getSlideIndex({ next, slides, currentIndex, timeline, currentFra
     }
   }
 
+  // console.log('getSlideIndex', { nextIndex, nextCurrentFragmentSteps })
   if (Array.isArray(timeline[currentIndex])) {
     if (nextCurrentFragmentSteps < 0) {
       return {

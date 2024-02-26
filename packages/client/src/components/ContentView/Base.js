@@ -17,6 +17,7 @@ export const Base = memo(() => {
 
   useEffect(() => {
     const keyboardListener = ({ key }) => {
+      // console.log('Base', { key })
       if (key === 'ArrowRight') {
         dispatch(updateCurrentIndex('+'));
       } else if (key === 'ArrowLeft') {
