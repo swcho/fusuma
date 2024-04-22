@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.9.0](https://github.com/hiroppy/fusuma/compare/v2.8.4...v2.9.0) (2024-04-22)
+
+**Note:** Version bump only for package @fusuma/client
+
+
+
+
+
 ## [2.8.4](https://github.com/hiroppy/fusuma/compare/v2.8.3...v2.8.4) (2021-05-15)
 
 

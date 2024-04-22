@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.9.0](https://github.com/hiroppy/fusuma/compare/v2.8.4...v2.9.0) (2024-04-22)
+
+
+### Bug Fixes
+
+* **webpack:** use inputDirPath to definition of $SLIDE_PATH ([82592f4](https://github.com/hiroppy/fusuma/commit/82592f45770d73581e1424fb159bf4fc823267aa))
+
+
+### Features
+
+* **mdx:** add frontmatter ([2d57e07](https://github.com/hiroppy/fusuma/commit/2d57e072f21521ad09ff8ccb3ac1419850a6c772))
+
+
+
+
+
 ## [2.8.4](https://github.com/hiroppy/fusuma/compare/v2.8.3...v2.8.4) (2021-05-15)
 
 
