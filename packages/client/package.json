@@ -30,5 +30,6 @@
     "screenfull": "^5.1.0",
     "swiper": "^6.6.2",
     "vm-browserify": "^1.1.2"
-  }
+  },
+  "gitHead": "9c64a974aed6ca0480591643f9ecdcb4535573de"
 }

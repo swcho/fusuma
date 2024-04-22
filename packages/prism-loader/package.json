@@ -23,5 +23,6 @@
     "globby": "^11.0.4",
     "loader-utils": "^2.0.2",
     "prismjs": "^1.23.0"
-  }
+  },
+  "gitHead": "9c64a974aed6ca0480591643f9ecdcb4535573de"
 }

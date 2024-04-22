@@ -13,5 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "schema-utils": "^3.0.0"
-  }
+  },
+  "gitHead": "9c64a974aed6ca0480591643f9ecdcb4535573de"
 }
