@@ -12,9 +12,9 @@ const babelrc = require('../configs/babelrc');
 const srcDirPath = `${sep}src`;
 const configsEntryPoint = require.resolve('../configs');
 const configsBasePath = configsEntryPoint.split(srcDirPath).slice(0, -1).join(srcDirPath);
-const clientEntryPoint = require.resolve('@fusuma/client');
+const clientEntryPoint = require.resolve('@fusuma-ex/client');
 const clientBasePath = clientEntryPoint.split(srcDirPath).slice(0, -1).join(srcDirPath);
-const mdxLoaderEntryPoint = require.resolve('@fusuma/mdx-loader');
+const mdxLoaderEntryPoint = require.resolve('@fusuma-ex/mdx-loader');
 const mdxLoaderBasePath = mdxLoaderEntryPoint.split(srcDirPath).slice(0, -1).join(srcDirPath);
 
 module.exports = (
@@ -92,7 +92,7 @@ module.exports = (
           test: /setup\/prism.js/,
           use: [
             {
-              loader: '@fusuma/prism-loader',
+              loader: '@fusuma-ex/prism-loader',
               options: {
                 theme: code.theme,
                 plugins: code.plugins,
@@ -111,7 +111,7 @@ module.exports = (
               },
             },
             {
-              loader: '@fusuma/mdx-loader',
+              loader: '@fusuma-ex/mdx-loader',
               options: {
                 math,
               },

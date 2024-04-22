@@ -10,5 +10,9 @@
     "pdf": "fusuma pdf"
   },
   "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "14.17.6",
+    "npm": "7.13.0"
+  }
 }

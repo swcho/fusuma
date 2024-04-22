@@ -4,7 +4,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 const CompressionPlugin = require('compression-webpack-plugin');
-const MetaPlugin = require('@fusuma/generate-meta-webpack-plugin');
+const MetaPlugin = require('@fusuma-ex/generate-meta-webpack-plugin');
 
 function prod({ meta }) {
   return {
