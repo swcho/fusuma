@@ -1,6 +1,6 @@
 {
   "name": "@fusuma-ex/mdx-loader",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "description": "mdx-loader for fusuma",
   "main": "src/index.js",
   "files": [
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/hiroppy/fusuma#readme",
   "dependencies": {
-    "@fusuma-ex/prism-loader": "^2.9.0",
+    "@fusuma-ex/prism-loader": "^2.9.1",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "escape-goat": "^3.0.0",
