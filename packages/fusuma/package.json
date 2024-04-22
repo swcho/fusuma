@@ -1,5 +1,5 @@
 {
-  "name": "fusuma",
+  "name": "fusuma-ex",
   "version": "2.9.0",
   "description": "easily make slides with markdown",
   "bin": {
@@ -74,5 +74,5 @@
     "webpack-hot-middleware": "^2.25.1",
     "webpack-merge": "^5.7.3"
   },
-  "gitHead": "9c64a974aed6ca0480591643f9ecdcb4535573de"
+  "gitHead": "791abbd3c4647171f2705842cbeea811605698b2"
 }

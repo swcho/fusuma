@@ -1,5 +1,5 @@
 {
-  "name": "@fusuma/generate-meta-webpack-plugin",
+  "name": "@fusuma-ex/generate-meta-webpack-plugin",
   "version": "2.9.0",
   "description": "webpack plugin for fusuma",
   "main": "src/index.js",
@@ -14,5 +14,5 @@
   "dependencies": {
     "schema-utils": "^3.0.0"
   },
-  "gitHead": "9c64a974aed6ca0480591643f9ecdcb4535573de"
+  "gitHead": "791abbd3c4647171f2705842cbeea811605698b2"
 }
